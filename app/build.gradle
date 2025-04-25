@@ -10,8 +10,8 @@ android {
         applicationId "com.AdeebTechLab.RahamTVsticker"
         minSdkVersion 23
         targetSdkVersion 33
-        versionCode 4
-        versionName "4.0"
+        versionCode 6
+        versionName "6.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.
@@ -43,6 +43,7 @@ android {
         exclude 'lib/*/libnative-imagetranscoder.so'
         exclude 'lib/*/libnative-filters.so'
     }
+    namespace 'com.AdeebTechLab.RahamTVsticker'
 
     // Configures multiple APKs based on ABI.
     // see https://developer.android.com/studio/build/configure-apk-splits#configure-abi-split

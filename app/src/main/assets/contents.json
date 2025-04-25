@@ -11,7 +11,7 @@
       "avoid_cache": false,
       "publisher_email": "AdeebTechnologyLab@gmail.com",
       "publisher_website": "https://adeebtechlab.blogspot.com/",
-      "privacy_policy_website": "https://rahamtvusa.blogspot.com/2023/06/rahamtv-sticker-privacy-policy.html",
+      "privacy_policy_website": "https://privacypolicypak.blogspot.com/2024/04/privacy-policy-for-rahamtv-whatsapp.html",
       "license_agreement_website": "",
       "stickers": [
         {
@@ -45,18 +45,6 @@
         {
           "image_file": "8.webp",
           "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": ["🤔","😐"]
         },
         {
           "image_file": "12.webp",
@@ -109,7 +97,7 @@
       "avoid_cache": false,
       "publisher_email": "AdeebTechnologyLab@gmail.com",
       "publisher_website": "https://adeebtechlab.blogspot.com/",
-      "privacy_policy_website": "https://rahamtvusa.blogspot.com/2023/06/rahamtv-sticker-privacy-policy.html",
+      "privacy_policy_website": "https://privacypolicypak.blogspot.com/2024/04/privacy-policy-for-rahamtv-whatsapp.html",
       "license_agreement_website": "",
       "stickers": [
         {
@@ -205,7 +193,7 @@
       "avoid_cache": false,
       "publisher_email": "AdeebTechnologyLab@gmail.com",
       "publisher_website": "https://adeebtechlab.blogspot.com/",
-      "privacy_policy_website": "https://rahamtvusa.blogspot.com/2023/06/rahamtv-sticker-privacy-policy.html",
+      "privacy_policy_website": "https://privacypolicypak.blogspot.com/2024/04/privacy-policy-for-rahamtv-whatsapp.html",
       "license_agreement_website": "",
       "stickers": [
         {
@@ -333,7 +321,7 @@
       "avoid_cache": false,
       "publisher_email": "AdeebTechnologyLab@gmail.com",
       "publisher_website": "https://adeebtechlab.blogspot.com/",
-      "privacy_policy_website": "https://rahamtvusa.blogspot.com/2023/06/rahamtv-sticker-privacy-policy.html",
+      "privacy_policy_website": "https://privacypolicypak.blogspot.com/2024/04/privacy-policy-for-rahamtv-whatsapp.html",
       "license_agreement_website": "",
       "stickers": [
         {
@@ -426,7 +414,7 @@
       "avoid_cache": false,
       "publisher_email": "AdeebTechnologyLab@gmail.com",
       "publisher_website": "https://adeebtechlab.blogspot.com/",
-      "privacy_policy_website": "https://rahamtvusa.blogspot.com/2023/06/rahamtv-sticker-privacy-policy.html",
+      "privacy_policy_website": "https://privacypolicypak.blogspot.com/2024/04/privacy-policy-for-rahamtv-whatsapp.html",
       "license_agreement_website": "",
       "stickers": [
         {
@@ -547,7 +535,7 @@
       "avoid_cache": false,
       "publisher_email": "AdeebTechnologyLab@gmail.com",
       "publisher_website": "https://adeebtechlab.blogspot.com/",
-      "privacy_policy_website": "https://rahamtvusa.blogspot.com/2023/06/rahamtv-sticker-privacy-policy.html",
+      "privacy_policy_website": "https://privacypolicypak.blogspot.com/2024/04/privacy-policy-for-rahamtv-whatsapp.html",
       "license_agreement_website": "",
       "stickers": [
         {
@@ -647,20 +635,18 @@
           "emojis": [ "🌈", "😜" ]
         }
 
-
-
       ]
     },
     {
       "identifier": "7",
-      "name": "RahamTV 7",
+      "name": "English",
       "publisher": "Salman Adeeb",
       "tray_image_file": "logo.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "AdeebTechnologyLab@gmail.com",
       "publisher_website": "https://adeebtechlab.blogspot.com/",
-      "privacy_policy_website": "https://rahamtvusa.blogspot.com/2023/06/rahamtv-sticker-privacy-policy.html",
+      "privacy_policy_website": "https://privacypolicypak.blogspot.com/2024/04/privacy-policy-for-rahamtv-whatsapp.html",
       "license_agreement_website": "",
       "stickers": [
         {
@@ -688,9 +674,87 @@
           "emojis": [ "📱", "😦" ]
         }
 
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Pakistan",
+      "publisher": "Salman Adeeb",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "AdeebTechnologyLab@gmail.com",
+      "publisher_website": "https://adeebtechlab.blogspot.com/",
+      "privacy_policy_website": "https://privacypolicypak.blogspot.com/2024/04/privacy-policy-for-rahamtv-whatsapp.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [ "☕", "🙂" ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [ "😄", "😀" ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [ "😆", "😂" ]
+        }
+
+
+      ]
+    },
+
+    {
+      "identifier": "9",
+      "name": "Logos",
+      "publisher": "Salman Adeeb",
+      "tray_image_file": "logo.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "AdeebTechnologyLab@gmail.com",
+      "publisher_website": "https://adeebtechlab.blogspot.com/",
+      "privacy_policy_website": "https://privacypolicypak.blogspot.com/2024/04/privacy-policy-for-rahamtv-whatsapp.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [ "☕", "🙂" ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [ "😄", "😀" ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [ "😆", "😂" ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [ "😩", "😰" ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [ "😭", "💧" ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [ "📱", "😦" ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [ "😍", "♥" ]
+        }
 
 
       ]
     }
+
+
+
+
+
+
+
   ]
 }
